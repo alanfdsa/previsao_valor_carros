@@ -8,9 +8,9 @@ Este projeto foi desenvolvido no **workshop disponível em: https://www.youtube.
 * Preparação dos dados;
 * Análise exploratória da base;
 * Treinamento e validação de modelos de regressão;
-* Scprit executável em *notebook* e *.py* para fazer previsões;
+* Script executável em *notebook* e *.py* para fazer previsões;
 
-Todo o projeto foi desenvolvido utilizando jupyter notebook no colab.
+Todo o projeto foi desenvolvido utilizando jupyter notebook
 
 # Pastas e Códigos
 ### dados_olx/
